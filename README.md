@@ -1,4 +1,4 @@
-next-ui-lecture-slides
+next-ui-lecture
 ======================
 
 Web site contains UI Lecture sildes at NHN NEXT.
